@@ -1,3 +1,10 @@
+# Electron Restaurant List
+
+Boca Code Week 9 Electron Restaurant List: An Electron-based application designed to facilitate the learning process of creating a restaurant list. 
+
+![screenshot](./images/readme.png)
+
+
 <img src=".erb/img/erb-banner.svg" width="100%" />
 
 <br>
